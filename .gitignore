@@ -3,3 +3,4 @@
 /models/
 /self_tests/
 .DS_Store
+*.pyc
