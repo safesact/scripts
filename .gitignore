@@ -1,2 +1,5 @@
 .idea/
 /venv/
+/models/
+/self_tests/
+.DS_Store
